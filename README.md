@@ -11,7 +11,7 @@ You can access this [repo](https://github.com/DoongLi/ICRA2025-Paper-List) to ge
 Note: This list includes papers that were turned from journals to conference presentations.
 
 | Title | Authors | Session |
-| ----- | ------- | ------- |
+| --- | ------- | ------- |
 | Neural MP: A Neural Motion Planner | Dalal, Murtaza;Yang, Jiahui;Mendonca, Russell;Khaky, Youssef;Salakhutdinov, Ruslan;Pathak, Deepak | Award Finalists 1 |
 | Interactive Navigation for Legged Manipulators with Learned Arm-Pushing Controller | Bi, Zhihai;Chen, Kai;Zheng, Chunxin;Li, Yulin;Li, Haoang;Ma, Jun | Award Finalists 1 |
 | Implicit Disparity-Blur Alignment for Fast and Precise Autofocus in Robotic Microsurgical Imaging | Fu, Pan;Li, Zhen;Zhang, Ming-Yang;Zhai, Yu-Peng;Wang, Junzheng;He, Wenhao;Bian, Gui-Bin | Award Finalists 1 |
