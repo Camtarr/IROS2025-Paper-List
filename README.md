@@ -10,8 +10,6 @@ You can access this [repo](https://github.com/DoongLi/ICRA2025-Paper-List) to ge
 
 Note: This list includes papers that were turned from journals to conference presentations.
 
-# Paper List
-
 | Title | Authors | Session |
 | ----- | ------- | ------- |
 | Neural MP: A Neural Motion Planner | Dalal, Murtaza;Yang, Jiahui;Mendonca, Russell;Khaky, Youssef;Salakhutdinov, Ruslan;Pathak, Deepak | Award Finalists 1 |
