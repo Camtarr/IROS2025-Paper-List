@@ -1,6 +1,6 @@
 # IROS 2025 Paper List
 
-**This repository is maintained by [Dong Li][https://github.com/DoongLi]. For any issues, please submit an issue on GitHub or contact Dong Li via email at lidong8421bcd@gmail.com.**
+**This repository is maintained by [Dong Li](https://github.com/DoongLi). For any issues, please submit an issue on GitHub or contact Dong Li via email at lidong8421bcd@gmail.com.**
 
 This repo contains a list of all the papers being presented at IROS2025. Along with the session in which the paper is being presented. A CSV file with abstracts is also available.
 
